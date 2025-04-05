@@ -29,7 +29,7 @@ To make navigation and exploration easier, we've included relevant topics relate
 ### 🍊 Grab Your Copy Now!
 Ready to level up your Blox Fruits gameplay? Click the button below to download the latest version of the Blox Fruits Script 🔗
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Blox Fruits Script](https://github.com/EdwarTan/Blox-Fruits-Script-Roblox/releases)](https://github.com/EdwarTan/Blox-Fruits-Script-Roblox/releases)
 
 🚨 **Note:** The provided link leads directly to the script file. Make sure to launch it in your scripting environment to start benefiting from its features.
 
